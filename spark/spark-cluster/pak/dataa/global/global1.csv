@@ -1,0 +1,49 @@
+Annee;Mois;Moyenne de circulation par mois;Nombre_accident_par_mois;Nombre_de_pollution_par_mois;Niveau pollution
+2018;Janvier;9.39;4803;degradee;4
+2018;Fevrier;2.39;4803;moyenne;2
+2018;Mars;2.39;4759;moyenne;2
+2018;Avril;2.4;4561;bonne;1
+2018;Mai;2.39;4594;moyenne;2
+2018;Juin;1.4;4745;moyenne;2
+2018;Juillet;5.4;4741;degradee;4
+2018;Aout;8.39;4726;extremement mauvaise;5
+2018;Septembre;4.39;4693;degradee;4
+2018;Octobre;6.34;4730;mauvaise;3
+2018;Novembre;7.39;4672;mauvaise;3
+2018;Decembre;9.34;4763;extremement mauvaise;5
+2019;Janvier;9.39;5719;extremement mauvaise;5
+2019;Fevrier;2.39;2432;bonne;1
+2019;Mars;2.39;5306;moyenne;2
+2019;Avril;2.4;5884;bonne;1
+2019;Mai;2.39;5541;moyenne;2
+2019;Juin;1.4;2689;moyenne;2
+2019;Juillet;5.4;5633;extremement mauvaise;5
+2019;Aout;8.39;2847;extremement mauvaise;5
+2019;Septembre;4.39;5547;degradee;4
+2019;Octobre;6.34;2942;moyenne;2
+2019;Novembre;7.39;4618;degradee;4
+2019;Decembre;9.34;2942;extremement mauvaise;5
+2020;Janvier;8.4;4341;extremement mauvaise;5
+2020;Fevrier;5.4;4118;moyenne;2
+2020;Mars;0.22;20;bonne;1
+2020;Avril;0.5;20;bonne;1
+2020;Mai;0.16;20;bonne;1
+2020;Juin;0.5;20;moyenne;2
+2020;Juillet;0.39;20;extremement mauvaise;5
+2020;Aout;0.39;19;moyenne;2
+2020;Septembre;0.4;21;moyenne;2
+2020;Octobre;0.34;21;moyenne;2
+2020;Novembre;0.28;19;bonne;1
+2020;Decembre;0.34;20;bonne;1
+2021;Janvier;0.5;20;degradee;4
+2021;Fevrier;0.39;21;bonne;1
+2021;Mars;0.5;20;moyenne;2
+2021;Avril;0.4;20;bonne;1
+2021;Mai;0.4;20;bonne;1
+2021;Juin;4.5;1250;moyenne;2
+2021;Juillet;4.39;3677;degradee;4
+2021;Aout;5.39;3447;extremement mauvaise;5
+2021;Septembre;4.39;637;moyenne;2
+2021;Octobre;6.63;4333;mauvaise;3
+2021;Novembre;6.4;3846;degradee;4
+2021;Decembre;9.34;4711;extremement mauvaise;5
